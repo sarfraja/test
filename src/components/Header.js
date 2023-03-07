@@ -16,6 +16,12 @@ export default function Header() {
             <li className="nav_list__items whiteText">
               <a href="/contactus">Contact Us</a>
             </li>
+            <li className="nav_list__items whiteText">
+              <a href="/practice">Practice</a>
+            </li>
+            <li className="nav_list__items whiteText">
+              <a href="/githubapi">GithubApi</a>
+            </li>
           </ul>
         </nav>
       </div>
